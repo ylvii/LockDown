@@ -60,6 +60,5 @@ $user = new base();
 $data = $user->getAllRecords('nasledstvie');
 echo "<br>";
 print_r($data);
-
-
+print_r($data);
 ?>
